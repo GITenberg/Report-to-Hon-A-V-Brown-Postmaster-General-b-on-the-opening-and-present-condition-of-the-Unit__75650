@@ -1,0 +1,59 @@
+_repo: Report-to-Hon-A-V-Brown-Postmaster-General-b-on-the-opening-and-present-condition-of-the-Unit__75650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woods, Isaiah Churchill
+    aliases:
+    - Woods, I. C. (Isaiah Churchill)
+    - Wood, I. C. (Isaiah Churchill)
+    birthdate: 1825
+    deathdate: 1880
+    gutenberg_agent_id: '58082'
+    url: http://www.gutenberg.org/2009/agents/58082
+description: 'Reading ease score: 65.8 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: History - American'
+- 'Browsing: Travel & Geography'
+gutenberg_issued: '2025-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75650'
+language: en
+pgterms:marc904: https://quod.lib.umich.edu/m/moa/AFT3376.0001.001/?view=toc
+pgterms:marc905: 20070114112315wood
+pgterms:marc906: '1858'
+pgterms:marc907: US
+production_note: Carla Foust, Adrian Mastronardi and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from scans of public domain
+  works at the University of Michigan's Making of America collection.)
+publication_note: '  $aWashington, DC :$bUnited States. Post Office Dept., $c1858.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Antonio and San Diego Mail Line'
+- !lcsh 'Postal service -- West (U.S.)'
+- !lcc 'HE'
+- GITenberg
+summary: '"Report to Hon. A. V. Brown, Postmaster-General: on the Opening and Present
+  Condition of the United States Overland Mail Route between San Antonio, Texas, and
+  San Diego, California" by I. C. Wood is a comprehensive report detailing the establishment
+  and current status of a crucial mail service, written in the mid-19th century. The
+  document presents an in-depth examination of the mail route''s geography, logistics,
+  and operational challenges as Wood navigates the complexities of setting up this
+  overland mail service. The report includes observations based on Wood''s firsthand
+  travel experience across this rugged terrain.  The opening portion of the report
+  outlines the author’s journey and intricate preparations for the inaugural mail
+  runs. It details Wood''s contracting responsibilities, the logistical hurdles he
+  faced while assembling the necessary resources, and the construction of the mail
+  route, which involved overcoming various natural obstacles and establishing supply
+  stations. Wood''s narrative begins with the historical context of the mail line
+  and quickly transitions into his personal experiences, including hiring workers,
+  managing supplies, and dealing with the interactions with local tribes, reflecting
+  the multifaceted challenges of operating a mail service in such a demanding environment.
+  (This is an automatically generated summary.)'
+title: 'Report to Hon. A. V. Brown, Postmaster-General : $b on the opening and present
+  condition of the United States overland mail route between San Antonio, Texas, and
+  San Diego, California'
+url: http://www.gutenberg.org/ebooks/75650
