@@ -1,5 +1,8 @@
 _repo: Report-to-Hon-A-V-Brown-Postmaster-General-b-on-the-opening-and-present-condition-of-the-Unit__75650
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75650-h/images/cover.jpg
 creator:
   author:
     agent_name: Woods, Isaiah Churchill
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58082
 description: 'Reading ease score: 65.8 (8th & 9th grade). Neither easy nor difficult
   to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75650#Report-to-Hon-A-V-Brown-Postmaster-General-b-on-the-opening-and-present-condition-of-the-Unit_
 gutenberg_bookshelf:
 - 'Browsing: History - American'
 - 'Browsing: Travel & Geography'
